@@ -15,7 +15,7 @@
 
   ## Description
   
-  This is a back-end NoSQL project that utilizes MongoDB and Mongoose to run a social media application. It is designed this way to have less structure and allow for a quicker MVP set up as well as hanlding large amounts of unstructured data. Through the routes the CRUD is available for each route of user, users making a thought, and reactions to those thoughts. There is also the ability to add another user as a friend and remove them. 
+  This project is a MERN project that uses react to create the front end pages, MongoDB, Express, and Node to make the backend of the webpage. It uses a Google API book search to display all of the books after searched. A user will type in a genre, author, title, or anything related to the book they want to search and the books related will show on page. A user can also create an account or login and save books to their account. They will be able to access their saved list of books and be able to delete books.  
 
   ## Screenshots
 
@@ -25,11 +25,11 @@
 
   ## Installation
 
-  To run this on your own computer you can copy the reop at https://github.com/cullinans1/api-thoughts. After that you will need to install npm, express, mongoose, and moment.js.
+  To run this on your own computer you can copy the reop at https://github.com/cullinans1/book-search. After that you will need to run npm install.
 
   ## Usage 
 
-  Video of application being run and used through Insomnia Core: https://drive.google.com/file/d/19zXXUb_hYquNVt4flFavrJQ3XEJx1HHC/view
+  Video of application being run and used through localhost: https://drive.google.com/file/d/1mEr7eN-elkNnAXCq1WXvr2wxKLVPBwes/view
 
   ## Questions?
 
